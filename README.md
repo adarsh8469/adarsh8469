@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on C++.
+- 🌱 I’m currently learning Comptetive Programming.
+- 🤔 I’m looking for help with C++ STL.
+- 💬 Ask me about Hobbies.
+- ⚡ Fun fact: Don't know Coding😄
 <!--
 **adarsh8469/adarsh8469** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
