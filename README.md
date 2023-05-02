@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Competitive Coding**
 
-- 💬 Ask me about **Underrated Developer**
+- 💬 Ask me about **My Hobbies**
 
 - 📫 How to reach me **adarshpatel.2019527@gmail.com**
 
