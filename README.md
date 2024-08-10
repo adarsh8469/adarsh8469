@@ -1,7 +1,7 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" alt="BANNER">
 
 <h1 align="center">Hi 👋, I'm Adarsh Patel</h1>
-<h3 align="center">Welcome to my GitHub Account</h3>
+<h3 align="center"><b>Welcome to my GitHub Account</b></h3>
 
 <img align = "right" alt = "Coding" width = "400" src = "https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/adinitrox" target="blank"><img src="https://img.shields.io/twitter/follow/adinitrox?logo=twitter&style=for-the-badge" alt="adinitrox" /></a> </p>
 
-- 🔭 I’m currently working on **URL Shortener by Dijango**
+- 🔭 I’m currently working on **CRM App using Djnago**
 
 - 🌱 I’m currently learning **C++ STL**
 
