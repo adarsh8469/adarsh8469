@@ -1,6 +1,6 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" alt="BANNER">
 
-<h1 align="center">Hi 👋, I'm Adarsh Patel</h1>
+<h1 align="center">Hi 👋, I'm <b>Adarsh Patel</b></h1>
 <h3 align="center"><b>Welcome to my GitHub Account</b></h3>
 
 <img align = "right" alt = "Coding" width = "400" src = "https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
